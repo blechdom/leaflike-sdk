@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Leaflife</title>
+    <link />
+    <description>Leaflife Description</description>
+    <language>en-us</language>
+    <pubDate>Wed, 11 Nov 2015 20:30:54 GMT</pubDate>
+    <image>
+      <title>Leaflife</title>
+      <url>http://storage.googleapis.com/dunbar-storage/LeafLife-Channel-Poster.jpg</url>
+      <width>-1</width>
+      <height>-1</height>
+    </image>
+    <item>
+      <title>Cannasortium Promo</title>
+      <link>http://storage.googleapis.com/dunbar-storage/CannaSortium.mp4</link>
+      <description>Cannasortium is taking the gold standard of business and applying it to the ecosystem of the cannabis world.</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">e5b1ec99bb72c4dd2941515a5dea5067</guid>
+      <media:content channels="2" bitrate="7600" duration="260" fileSize="271869981" framerate="29.976" height="1080" type="video/mp4" width="1920" isDefault="true" url="http://storage.googleapis.com/dunbar-storage/CannaSortium.mp4">
+        <media:description>Cannasortium is taking the gold standard of business and applying it to the ecosystem of the cannabis world.</media:description>
+        <media:keywords>cannabis, lifestyle, travel, products, roku recommends</media:keywords>
+        <media:thumbnail url="http://storage.googleapis.com/dunbar-storage/CannaSortium2.jpg" />
+        <media:title>Cannasortium Promo</media:title>
+      </media:content>
+    </item>
+      <item>
+        <title>Leaf Life Episode 0</title>
+        <link>http://storage.googleapis.com/dunbar-storage/LeafLife-Promo.mp4</link>
+        <description>Leaf Life is your destination for cannabis exploration. Learn about the latest new products and be entertained.</description>
+        <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+        <guid isPermaLink="false">decbe34b243a4ca281dcfd997d0f23fd</guid>
+        <media:content channels="2" bitrate="7600" duration="260" fileSize="271869981" framerate="29.976" height="1080" type="video/mp4" width="1920" isDefault="true" url="http://storage.googleapis.com/dunbar-storage/LeafLife-Promo.mp4">
+          <media:description>Leaf Life is your destination for cannabis exploration. Learn about the latest new products and be entertained.</media:description>
+          <media:keywords>cannabis, lifestyle, travel, products, roku recommends</media:keywords>
+          <media:thumbnail url="http://storage.googleapis.com/dunbar-storage/LeafLife-Promo2.jpg" />
+          <media:title>Leaf Life Episode 0</media:title>
+        </media:content>
+      </item>
+        <item>
+          <title>Kind Roads Episode 0</title>
+          <link>http://storage.googleapis.com/dunbar-storage/KindRoads-Promo.mp4</link>
+          <description>Travel the wild roads of the Emerald Triangle with this cannabis themed lifestyle program, set in the Pacific Northwest.</description>
+          <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+          <guid isPermaLink="false">a4f10ada47bdebc4bd47dbb193a687f9</guid>
+          <media:content channels="2" bitrate="7600" duration="260" fileSize="271869981" framerate="29.976" height="1080" type="video/mp4" width="1920" isDefault="true" url="http://storage.googleapis.com/dunbar-storage/KindRoads-Promo.mp4">
+            <media:description>Travel the wild roads of the Emerald Triangle with this cannabis themed lifestyle program, set in the Pacific Northwest.</media:description>
+            <media:keywords>cannabis, lifestyle, travel, products, roku recommends</media:keywords>
+            <media:thumbnail url="http://storage.googleapis.com/dunbar-storage/KindRoads-Promo2.jpg" />
+            <media:title>Kind Roads Episode 0</media:title>
+          </media:content>
+        </item>
+  </channel>
+</rss>
